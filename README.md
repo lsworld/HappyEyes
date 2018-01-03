@@ -18,5 +18,5 @@ This repository serves the purpose of being an issue tracker. Please report prob
 ## For the future
 
 - [ ] Using geofencing to remind you to activate the countdown
-- [ ] Option to add work times
-- [ ] Reminder if you haven't been using the countdown for a set amount of time
+- [x] Option to add work times
+- [x] Reminder if you haven't been using the countdown for a set amount of time
